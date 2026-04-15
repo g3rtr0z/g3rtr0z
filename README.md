@@ -25,7 +25,9 @@ Desarrollador Full Stack enfocado en construir aplicaciones web modernas, rápid
 
 ### 📂 Proyectos Destacados
 
-- **[IMPCH Pulmahue](https://github.com/g3rtr0z/IMPCHPulmahue)**: Una plataforma web moderna desarrollada con **React** y **Tailwind CSS**, utilizando **Firebase** para la gestión de datos en tiempo real y autenticación. Desplegado exitosamente en **Vercel**.
+- **[Inventario ST](https://github.com/g3rtr0z/InventarioST)**: Sistema integral de gestión de inventarios para **Santo Tomás**. Incluye control de roles, generación y escaneo de códigos QR, y reportes en PDF/Excel. Construido con **React**, **TypeScript**, **Tailwind CSS** y **Firebase**.
+- **[MiAsistenciaST](https://github.com/g3rtr0z/MiAsistenciaST)**: Aplicación para la gestión de asistencia en eventos institucionales. Permite el seguimiento de alumnos/docentes e importación desde Excel. Desarrollada con **React** y **Firebase**.
+- **[IMPCH Pulmahue](https://github.com/g3rtr0z/IMPCHPulmahue)**: Plataforma institucional para la gestión de noticias y comunicación comunitaria. Implementada con **React**, **Tailwind CSS** y **Firebase**.
 
 ---
 
