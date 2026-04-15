@@ -29,15 +29,11 @@ Desarrollador Full Stack enfocado en construir aplicaciones web modernas, rápid
 
 ---
 
-### 📊 Actividad en GitHub
+### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=g3rtr0z&show_icons=true&theme=omni&hide_border=true&title_color=38B2AC" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g3rtr0z&layout=compact&theme=omni&hide_border=true&title_color=38B2AC" alt="Langs" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=g3rtr0z&theme=omni&hide_border=true&stroke=38B2AC" alt="Streak" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=g3rtr0z&show_icons=true&theme=omni&hide_border=true&title_color=38B2AC&locale=es&hide=rank,stars,commits,prs,issues" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g3rtr0z&layout=compact&theme=omni&hide_border=true&title_color=38B2AC&locale=es" alt="Langs" width="48%" />
 </p>
 
 ---
